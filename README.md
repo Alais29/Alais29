@@ -31,11 +31,11 @@
 
 <h2 align="left">🔥 My stats:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alais29&show_icons=true&locale=en&layout=compact" alt="alais29" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alais29&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="alais29" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alais29&show_icons=true&locale=en" alt="alais29" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alais29&theme=midnight-purple&show_icons=true&locale=en" alt="alais29" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alais29&" alt="alais29" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alais29&theme=midnight-purple" alt="alais29" /></p>
 
 
 <!--
