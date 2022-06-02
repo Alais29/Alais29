@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a React Native ecommerce app**
 
-- 🌱 I’m currently learning **React Native, Design Patterns, Big O notation**
+- 🌱 I’m currently learning **React Native, Design Patterns, Big O notation, game development with UE5**
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, Gatsby, Node**
 
@@ -34,9 +34,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alais29&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="alais29" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alais29&theme=midnight-purple&show_icons=true&locale=en" alt="alais29" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alais29&theme=midnight-purple" alt="alais29" /></p>
-
 
 <!--
 **Alais29/Alais29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
