@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a React Native ecommerce app**
 
-- 🌱 I’m currently learning **React Native, Design Patterns, Big O notation, game development with UE5**
+- 🌱 I’m currently learning **Design Patterns, NextJS, game development with UE5**
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, Gatsby, Node**
 
