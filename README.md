@@ -3,9 +3,9 @@
 
 <h2 align="left">👩‍💻 About me</h2>
 
-- 🔭 I’m currently working on **a React Native ecommerce app**
+- 🔭 I’m currently working on **a node API for a frontend mentor practice project**
 
-- 🌱 I’m currently learning **Design Patterns, NextJS, game development with UE5**
+- 🌱 I’m currently learning **Design Patterns in JS, NextJS, game development with UE5**
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, Gatsby, Node**
 
