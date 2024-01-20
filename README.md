@@ -3,7 +3,7 @@
 
 <h2 align="left">👩‍💻 About me</h2>
 
-- 🔭 I’m currently working on **a node API for a frontend mentor practice project**
+- 🔭 I’m currently working on **a NextJS project**
 
 - 🌱 I’m currently learning **Design Patterns in JS, NextJS, game development with UE5**
 
